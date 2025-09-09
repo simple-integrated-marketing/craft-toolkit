@@ -6,7 +6,7 @@ A comprehensive toolkit for Craft CMS that provides complementary functionality 
 ## Installation
 
 ```bash
-composer require simple-team/craft-toolkit
+composer require simpleteam/craft-toolkit
 ```
 
 The plugin will automatically register the `options` component when installed.
