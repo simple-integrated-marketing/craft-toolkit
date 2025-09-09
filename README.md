@@ -1,4 +1,3 @@
-
 # Simple Craft Toolkit
 
 A comprehensive toolkit for Craft CMS that provides complementary functionality and utilities. Currently includes an options system for easy key-value storage accessible via `Craft::$app->options`.
@@ -7,6 +6,8 @@ A comprehensive toolkit for Craft CMS that provides complementary functionality 
 
 ```bash
 composer require simpleteam/craft-toolkit
+# Activation on DDEV
+ddev craft plugin/install simpleteam-craft-toolkit
 ```
 
 The plugin will automatically register the `options` component when installed.

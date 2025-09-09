@@ -32,7 +32,7 @@
     },
     "extra": {
         "name": "Simple Craft Toolkit",
-        "handle": "simple-craft",
+        "handle": "simpleteam-craft-toolkit",
         "class": "Simpleteam\\Craft\\Plugin",
         "components": {
             "options": "Simpleteam\\Craft\\Database\\Options"
